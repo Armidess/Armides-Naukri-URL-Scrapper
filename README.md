@@ -21,8 +21,8 @@ A Python Selenium-based scraper to extract all job listing URLs from a given Nau
 1. Clone the repository:
 
     ```
-    git clone https://github.com/yourusername/naukri-job-scraper.git
-    cd naukri-job-scraper
+    git clone https://github.com/Armidess/Armides-Naukri-URL-Scrapper.git
+    cd Armides-Naukri-URL-Scrapper
     ```
 
 2. Create and activate a virtual environment:
